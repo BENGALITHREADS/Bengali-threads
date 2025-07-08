@@ -22,8 +22,8 @@ export default function HomePage() { return ( <div className="min-h-screen bg-be
   <section id="shop" className="p-10 bg-beige-100">
     <h3 className="text-2xl font-bold mb-6">Our Products</h3>
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-      {[1, 2, 3].map((item) => (
-        <Card key={item} className="bg-white shadow-md">
+      Nokshi katha handmade
+        <Card key={nokshi katha} className="bg-white shadow-md">
           <CardContent className="p-4">
             <div className="h-48 bg-beige-300 mb-4"></div>
             <h4 className="font-semibold">Product Name</h4>
