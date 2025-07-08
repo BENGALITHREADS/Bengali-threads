@@ -1,5 +1,4 @@
-# Bengali-threadsimport React from "react"; import { Button } from "@/components/ui/button"; import { Card, CardContent } from "@/components/ui/card";
-
+# Bengali-threads
 export default function HomePage() { return ( <div className="min-h-screen bg-beige-100 text-brown-900 font-serif"> {/* Header */} <header className="p-6 shadow-md bg-white flex justify-between items-center"> <h1 className="text-3xl font-bold">Bengali Threads</h1> <nav className="space-x-4"> <a href="#home" className="hover:underline">Home</a> <a href="#about" className="hover:underline">About</a> <a href="#shop" className="hover:underline">Shop</a> <a href="#lookbook" className="hover:underline">Lookbook</a> <a href="#contact" className="hover:underline">Contact</a> </nav> </header>
 
 {/* Hero Section */}
